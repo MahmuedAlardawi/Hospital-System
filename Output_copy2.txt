@@ -1,0 +1,640 @@
+--------------- Welcome to KAU Hospital System ---------------
+Command Add_Room: Add a new room record in the System
+	Room No: 101
+	Located in floor: First
+	Block :B
+	Charges: 700.0
+
+----------------------------------------------------------------
+Command Add_Room: Add a new room record in the System
+	Room No: 102
+	Located in floor: First
+	Block :B
+	Charges: 700.0
+
+----------------------------------------------------------------
+Command Add_Room: Add a new room record in the System
+	Room No: 103
+	Located in floor: First
+	Block :B
+	Charges: 700.0
+
+----------------------------------------------------------------
+Command Add_Room: Add a new room record in the System
+	Room No: 104
+	Located in floor: Ground
+	Block :A
+	Charges: 800.0
+
+----------------------------------------------------------------
+Command Add_Room: Add a new room record in the System
+	Room No: 105
+	Located in floor: Ground
+	Block :A
+	Charges: 800.0
+
+----------------------------------------------------------------
+Command Add_Room: Add a new room record in the System
+	Room No: 106
+	Located in floor: Second
+	Block :C
+	Charges: 600.0
+
+----------------------------------------------------------------
+Command Add_Room: Add a new room record in the System
+	Room No: 107
+	Located in floor: Ground
+	Block :C
+	Charges: 600.0
+
+----------------------------------------------------------------
+Command Add_Room: Add a new room record in the System
+	Room No: 108
+	Located in floor: Second
+	Block :C
+	Charges: 600.0
+
+----------------------------------------------------------------
+Command Add_Room: Add a new room record in the System
+	Room No: 109
+	Located in floor: Second
+	Block :C
+	Charges: 600.0
+
+----------------------------------------------------------------
+Command Add_Room: Add a new room record in the System
+	Room No: 110
+	Located in floor: Second
+	Block :C
+	Charges: 600.0
+
+----------------------------------------------------------------
+Command Add_Medicine: Add a new Medicine record in the System
+	Medicine Code: 4001
+	Name: Azithromycin
+	Price :75.0
+
+----------------------------------------------------------------
+Command Add_Medicine: Add a new Medicine record in the System
+	Medicine Code: 4002
+	Name: Amoxicillin
+	Price :85.0
+
+----------------------------------------------------------------
+Command Add_Medicine: Add a new Medicine record in the System
+	Medicine Code: 4003
+	Name: Hydrochlorothiazide
+	Price :95.0
+
+----------------------------------------------------------------
+Command Add_Medicine: Add a new Medicine record in the System
+	Medicine Code: 4004
+	Name: Lisinopril
+	Price :45.0
+
+----------------------------------------------------------------
+Command Add_Medicine: Add a new Medicine record in the System
+	Medicine Code: 4005
+	Name: Hydrocodone
+	Price :65.0
+
+----------------------------------------------------------------
+Command Add_Medicine: Add a new Medicine record in the System
+	Medicine Code: 4006
+	Name: Crestor
+	Price :110.0
+
+----------------------------------------------------------------
+Command Add_Medicine: Add a new Medicine record in the System
+	Medicine Code: 4007
+	Name: Epogen
+	Price :445.0
+
+----------------------------------------------------------------
+Command Add_Medicine: Add a new Medicine record in the System
+	Medicine Code: 4008
+	Name: Lipitor
+	Price :675.0
+
+----------------------------------------------------------------
+Command Add_Medicine: Add a new Medicine record in the System
+	Medicine Code: 4009
+	Name: Nexium
+	Price :245.0
+
+----------------------------------------------------------------
+Command Add_Medicine: Add a new Medicine record in the System
+	Medicine Code: 4010
+	Name: Plavix
+	Price :145.0
+
+----------------------------------------------------------------
+Command Add_Medicine: Add a new Medicine record in the System
+	Medicine Code: 4011
+	Name: Singulair
+	Price :125.0
+
+----------------------------------------------------------------
+Command Add_Medicine: Add a new Medicine record in the System
+	Medicine Code: 4012
+	Name: Abilify
+	Price :75.0
+
+----------------------------------------------------------------
+Command Add_Medicine: Add a new Medicine record in the System
+	Medicine Code: 4013
+	Name: Actos
+	Price :250.0
+
+----------------------------------------------------------------
+Command Add_Medicine: Add a new Medicine record in the System
+	Medicine Code: 4014
+	Name: Actos400
+	Price :250.0
+
+----------------------------------------------------------------
+Command Add_Medicine: Add a new Medicine record in the System
+	Medicine Code: 4015
+	Name: Actos800
+	Price :50.0
+
+----------------------------------------------------------------
+Command Add_Medicine: Add a new Medicine record in the System
+	Medicine Code: 4016
+	Name: Lipitor200
+	Price :40.0
+
+----------------------------------------------------------------
+Command Add_Medicine: Add a new Medicine record in the System
+	Medicine Code: 4017
+	Name: Amoxicillin250
+	Price :90.0
+
+----------------------------------------------------------------
+Command Add_Medicine: Add a new Medicine record in the System
+	Medicine Code: 4018
+	Name: Crestor500
+	Price :85.0
+
+----------------------------------------------------------------
+Command Add_Medicine: Add a new Medicine record in the System
+	Medicine Code: 4019
+	Name: Panadol
+	Price :20.0
+
+----------------------------------------------------------------
+Command Add_Medicine: Add a new Medicine record in the System
+	Medicine Code: 4020
+	Name: Panadol_Extra
+	Price :25.0
+
+----------------------------------------------------------------
+Command Add_Doctor: Add a new doctor record in the System
+	ID: 10005
+	Name: Mohammed_Ali_Zahrani
+	Nationality :Saudi
+	Gender: M
+	Phone: 5001234
+	Specilaization: Cardiologist
+	Staff ID: C335
+	Consultation Fees :450.0
+
+----------------------------------------------------------------
+Command Add_Doctor: Add a new doctor record in the System
+	ID: 10004
+	Name: Sara_Ahmed_Ghamdi
+	Nationality :Saudi
+	Gender: F
+	Phone: 5001244
+	Specilaization: Surgery
+	Staff ID: C336
+	Consultation Fees :500.0
+
+----------------------------------------------------------------
+Command Add_Doctor: Add a new doctor record in the System
+	ID: 10003
+	Name: Maryam_Hassan_Shahri
+	Nationality :Saudi
+	Gender: F
+	Phone: 5001245
+	Specilaization: Surgery
+	Staff ID: C337
+	Consultation Fees :500.0
+
+----------------------------------------------------------------
+Command Add_Doctor: Add a new doctor record in the System
+	ID: 10002
+	Name: Hassan_Ahmad_Sami
+	Nationality :Saudi
+	Gender: M
+	Phone: 5003336
+	Specilaization: Dermatologist
+	Staff ID: C338
+	Consultation Fees :300.0
+
+----------------------------------------------------------------
+Command Add_Doctor: Add a new doctor record in the System
+	ID: 10001
+	Name: Mohammed_Ahmed_Zahrani
+	Nationality :Saudi
+	Gender: M
+	Phone: 5001204
+	Specilaization: Family_medicine
+	Staff ID: C339
+	Consultation Fees :250.0
+
+----------------------------------------------------------------
+Command Add_Nurse: Add a new nurse record in the System
+	ID: 9001
+	Name: Faisal_Zahrani
+	Nationality :Saudi
+	Gender: M
+	Phone: 4001234
+	Specilaization: Ventilator_care
+	Staff ID: V345
+	Experience Year: 10
+
+----------------------------------------------------------------
+Command Add_Nurse: Add a new nurse record in the System
+	ID: 9002
+	Name: Fatima_Ahmed
+	Nationality :Saudi
+	Gender: F
+	Phone: 4001244
+	Specilaization: Telemetry
+	Staff ID: V346
+	Experience Year: 8
+
+----------------------------------------------------------------
+Command Add_Nurse: Add a new nurse record in the System
+	ID: 9003
+	Name: Laila_Shahri
+	Nationality :Saudi
+	Gender: F
+	Phone: 4001245
+	Specilaization: ICU_and_CCU
+	Staff ID: V347
+	Experience Year: 7
+
+----------------------------------------------------------------
+Command Add_Patient: 
+Add a new Patient record in the System
+	ID: 20005
+	Name: Meshal_ALi
+	Nationality :Saudi
+	Gender: M
+	Phone: 50123456
+-------------------------------------------------------------------------------------------
+Illness: Suffering_from_High_Blood_Sugar, Blood Group: O+
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+Command Add_Patient: 
+Add a new Patient record in the System
+	ID: 20006
+	Name: Fatima_Mohammed
+	Nationality :Saudi
+	Gender: F
+	Phone: 50123456
+-------------------------------------------------------------------------------------------
+Illness: Suffering_from_cough_and_cold, Blood Group: O-
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+Command Add_Patient: 
+Add a new Patient record in the System
+	ID: 20007
+	Name: Bahaa_Mahmood
+	Nationality :Saudi
+	Gender: M
+	Phone: 50123456
+-------------------------------------------------------------------------------------------
+Illness: Suffering_from_chest_pain, Blood Group: A+
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+Command Add_Patient: 
+Add a new Patient record in the System
+	ID: 20001
+	Name: Meshal_ALi
+	Nationality :Saudi
+	Gender: M
+	Phone: 50123456
+-------------------------------------------------------------------------------------------
+Illness: Suffering_from_High_Blood_Sugar, Blood Group: O+
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+Command Add_Patient: 
+Add a new Patient record in the System
+	ID: 20002
+	Name: Fatima_Mohammed
+	Nationality :Saudi
+	Gender: F
+	Phone: 50123456
+-------------------------------------------------------------------------------------------
+Illness: Suffering_from_cough_and_cold, Blood Group: O-
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+Command Add_Patient: 
+Add a new Patient record in the System
+	ID: 20003
+	Name: Bahaa_Mahmood
+	Nationality :Saudi
+	Gender: M
+	Phone: 50123456
+-------------------------------------------------------------------------------------------
+Illness: Suffering_from_chest_pain, Blood Group: A+
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+Command Add_Patient: 
+Add a new Patient record in the System
+	ID: 20004
+	Name: Hana_Abdukkah
+	Nationality :Saudi
+	Gender: F
+	Phone: 50123456
+-------------------------------------------------------------------------------------------
+Illness: Patient_has_leg_injury, Blood Group: A-
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+Command Assign_Doctor_Patient:
+Successfully Processed by the System:
+Following are the details:
+		Patient: Meshal_ALi
+		Assigned to Doctor: Mohammed_Ali_Zahrani
+-------------------------------------------------------------------------------
+Command Assign_Doctor_Patient:
+Successfully Processed by the System:
+Following are the details:
+		Patient: Fatima_Mohammed
+		Assigned to Doctor: Mohammed_Ali_Zahrani
+-------------------------------------------------------------------------------
+Command Assign_Doctor_Patient:
+Successfully Processed by the System:
+Following are the details:
+		Patient: Bahaa_Mahmood
+		Assigned to Doctor: Mohammed_Ahmed_Zahrani
+-------------------------------------------------------------------------------
+Command Assign_Doctor_Patient:
+Successfully Processed by the System:
+Following are the details:
+		Patient: Hana_Abdukkah
+		Assigned to Doctor: Maryam_Hassan_Shahri
+-------------------------------------------------------------------------------
+Command Assign_Doctor_Patient:
+Successfully Processed by the System:
+Following are the details:
+		Patient: Meshal_ALi
+		Assigned to Doctor: Hassan_Ahmad_Sami
+-------------------------------------------------------------------------------
+Command Assign_Doctor_Patient:
+Successfully Processed by the System:
+Following are the details:
+		Patient: Fatima_Mohammed
+		Assigned to Doctor: Mohammed_Ali_Zahrani
+-------------------------------------------------------------------------------
+Command Assign_Doctor_Patient:
+Successfully Processed by the System:
+Following are the details:
+		Patient: Bahaa_Mahmood
+		Assigned to Doctor: Sara_Ahmed_Ghamdi
+-------------------------------------------------------------------------------
+Command Assign_Doctor_Patient:
+Doctor 10007 NOT FOUND 
+-------------------------------------------------------------------------------
+Command Assign_Doctor_Patient:
+Patient 20009 NOT FOUND 
+-------------------------------------------------------------------------------
+Command Assign_Room_Patient:
+Successfully Processed by the System:
+Following are the details:
+	Patient: Meshal_ALi
+	Assigned to Room:	Room No: 101
+	Located in floor: First
+	Block :B
+	Charges: 700.0
+
+---------------------------------------------------------------------------------
+Command Assign_Room_Patient:
+Successfully Processed by the System:
+Following are the details:
+	Patient: Fatima_Mohammed
+	Assigned to Room:	Room No: 102
+	Located in floor: First
+	Block :B
+	Charges: 700.0
+
+---------------------------------------------------------------------------------
+Command Assign_Room_Patient:
+Successfully Processed by the System:
+Following are the details:
+	Patient: Bahaa_Mahmood
+	Assigned to Room:	Room No: 103
+	Located in floor: First
+	Block :B
+	Charges: 700.0
+
+---------------------------------------------------------------------------------
+Command Assign_Room_Patient:
+Successfully Processed by the System:
+Following are the details:
+	Patient: Hana_Abdukkah
+	Assigned to Room:	Room No: 104
+	Located in floor: Ground
+	Block :A
+	Charges: 800.0
+
+---------------------------------------------------------------------------------
+Command Assign_Room_Patient:
+Successfully Processed by the System:
+Following are the details:
+	Patient: Meshal_ALi
+	Assigned to Room:	Room No: 105
+	Located in floor: Ground
+	Block :A
+	Charges: 800.0
+
+---------------------------------------------------------------------------------
+Command Assign_Room_Patient:
+Successfully Processed by the System:
+Following are the details:
+	Patient: Fatima_Mohammed
+	Assigned to Room:	Room No: 106
+	Located in floor: Second
+	Block :C
+	Charges: 600.0
+
+---------------------------------------------------------------------------------
+Command Assign_Room_Patient:
+Successfully Processed by the System:
+Following are the details:
+	Patient: Bahaa_Mahmood
+	Assigned to Room:	Room No: 107
+	Located in floor: Ground
+	Block :C
+	Charges: 600.0
+
+---------------------------------------------------------------------------------
+Command Assign_Room_Patient:
+Patient 20008 NOT FOUND 
+---------------------------------------------------------------------------------
+Command Assign_Room_Patient:
+Room 111 NOT FOUND 
+---------------------------------------------------------------------------------
+Command Assign_Room_Patient:
+Successfully Processed by the System:
+Following are the details:
+	Patient: Meshal_ALi
+	Assigned to Room:	Room No: 110
+	Located in floor: Second
+	Block :C
+	Charges: 600.0
+
+---------------------------------------------------------------------------------
+Command Assign_Medicine_Patient:
+Successfully Processed by the System:
+Following are the details:
+	Patient: Meshal_ALi
+	Medicine Prescribed: Azithromycin
+	Medicine Prescribed: Lisinopril
+	Medicine Prescribed: Hydrocodone
+-----------------------------------------------------------------------------
+Command Assign_Medicine_Patient:
+Successfully Processed by the System:
+Following are the details:
+	Patient: Fatima_Mohammed
+	Medicine Prescribed: Hydrocodone
+	Medicine Prescribed: Crestor
+-----------------------------------------------------------------------------
+Command Assign_Medicine_Patient:
+Medicines 4030 NOT FOUND 
+-----------------------------------------------------------------------------
+Command Assign_Medicine_Patient:
+Successfully Processed by the System:
+Following are the details:
+	Patient: Bahaa_Mahmood
+	Medicine Prescribed: Crestor
+	Medicine Prescribed: Epogen
+	Medicine Prescribed: Nexium
+-----------------------------------------------------------------------------
+Command Assign_Medicine_Patient:
+Information mismatch: Patient 20004must have 2 medicine not 4
+-----------------------------------------------------------------------------
+Command Assign_Medicine_Patient:
+Medicines 4021 NOT FOUND 
+-----------------------------------------------------------------------------
+Command Assign_Medicine_Patient:
+Successfully Processed by the System:
+Following are the details:
+	Patient: Hana_Abdukkah
+	Medicine Prescribed: Nexium
+	Medicine Prescribed: Singulair
+-----------------------------------------------------------------------------
+Command Assign_Medicine_Patient:
+Successfully Processed by the System:
+Following are the details:
+	Patient: Meshal_ALi
+	Medicine Prescribed: Azithromycin
+	Medicine Prescribed: Lisinopril
+	Medicine Prescribed: Hydrocodone
+-----------------------------------------------------------------------------
+Command Assign_Medicine_Patient:
+Successfully Processed by the System:
+Following are the details:
+	Patient: Fatima_Mohammed
+	Medicine Prescribed: Actos400
+	Medicine Prescribed: Actos800
+-----------------------------------------------------------------------------
+Command Assign_Medicine_Patient:
+Successfully Processed by the System:
+Following are the details:
+	Patient: Bahaa_Mahmood
+	Medicine Prescribed: Singulair
+	Medicine Prescribed: Lisinopril
+	Medicine Prescribed: Crestor
+-----------------------------------------------------------------------------
+Command Assign_Medicine_Patient:
+Patient 20008 NOT FOUND 
+-----------------------------------------------------------------------------
+
+Command: Print_Bill
+
+
+
+--------------- Welcome to KAU Hospital System ---------------
+
+--------- Current Date :  Fri Apr 15 15:24:36 AST 2022--------
+
+==================================================================
+Patient Detail: 
+ ID: 20001 Name: Meshal_ALi
+	Doctor : Mohammed_Ali_Zahrani   Doctor Consultation Fees: 450.0 SR	
+	Medicines  are:  
+	Medicine name: Azithromycin  Price: 75.0 SR 
+	Medicine name: Lisinopril    Price: 45.0 SR 
+	Medicine name: Hydrocodone   Price: 65.0 SR 
+	Room: 101 Room Charge: 700.0 SR   
+		==== Total Charges :1335.0 SR ====
+----------------------------------------------------------------
+Patient Detail: 
+ ID: 20002 Name: Fatima_Mohammed
+	Doctor : Mohammed_Ali_Zahrani   Doctor Consultation Fees: 450.0 SR	
+	Medicines  are:  
+	Medicine name: Hydrocodone   Price: 65.0 SR 
+	Medicine name: Crestor       Price: 110.0 SR
+	Room: 102 Room Charge: 700.0 SR   
+		==== Total Charges :1325.0 SR ====
+----------------------------------------------------------------
+Patient Detail: 
+ ID: 20003 Name: Bahaa_Mahmood
+	Doctor : Mohammed_Ahmed_Zahrani   Doctor Consultation Fees: 250.0 SR	
+	Medicines  are:  
+	Medicine name: Crestor       Price: 110.0 SR
+	Medicine name: Epogen        Price: 445.0 SR
+	Medicine name: Nexium        Price: 245.0 SR
+	Room: 103 Room Charge: 700.0 SR   
+		==== Total Charges :1750.0 SR ====
+----------------------------------------------------------------
+Patient Detail: 
+ ID: 20004 Name: Hana_Abdukkah
+	Doctor : Maryam_Hassan_Shahri   Doctor Consultation Fees: 500.0 SR	
+	Medicines  are:  
+	Medicine name: Nexium        Price: 245.0 SR
+	Medicine name: Singulair     Price: 125.0 SR
+	Room: 104 Room Charge: 800.0 SR   
+		==== Total Charges :1670.0 SR ====
+----------------------------------------------------------------
+Patient Detail: 
+ ID: 20005 Name: Meshal_ALi
+	Doctor : Hassan_Ahmad_Sami   Doctor Consultation Fees: 300.0 SR	
+	Medicines  are:  
+	Medicine name: Azithromycin  Price: 75.0 SR 
+	Medicine name: Lisinopril    Price: 45.0 SR 
+	Medicine name: Hydrocodone   Price: 65.0 SR 
+	Room: 110 Room Charge: 600.0 SR   
+		==== Total Charges :1085.0 SR ====
+----------------------------------------------------------------
+Patient Detail: 
+ ID: 20006 Name: Fatima_Mohammed
+	Doctor : Mohammed_Ali_Zahrani   Doctor Consultation Fees: 450.0 SR	
+	Medicines  are:  
+	Medicine name: Actos400      Price: 250.0 SR
+	Medicine name: Actos800      Price: 50.0 SR 
+	Room: 106 Room Charge: 600.0 SR   
+		==== Total Charges :1350.0 SR ====
+----------------------------------------------------------------
+Patient Detail: 
+ ID: 20007 Name: Bahaa_Mahmood
+	Doctor : Sara_Ahmed_Ghamdi   Doctor Consultation Fees: 500.0 SR	
+	Medicines  are:  
+	Medicine name: Singulair     Price: 125.0 SR
+	Medicine name: Lisinopril    Price: 45.0 SR 
+	Medicine name: Crestor       Price: 110.0 SR
+	Room: 107 Room Charge: 600.0 SR   
+		==== Total Charges :1380.0 SR ====
+----------------------------------------------------------------
+Thank you for using KAU Hospital System, Good Bye!
